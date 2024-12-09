@@ -2,6 +2,12 @@
 
 ### A real-time health tracking system using ESP32 and Pulse Sensor. The system monitors pulse rates and displays the data on the Blynk app and a web platform that stores and displays medical history.
 
+## Accessible link ⬇️: 
+🌐 https://smarthealthmonitor.netlify.app/
+### ( Username: vishnu , Password : 22ai057 , Patient id : 22ai057 )
+### ( Username: tharani , Password : 22ai055 , Patient id : 22ai055 )
+### ( Username : rohan , Password : 22ai041 , Patient id : 22ai041 )
+
 ## Features :
 - Real-Time Pulse Monitoring: Tracks and displays pulse rate on the Blynk app.
 - Web Platform: View past pulse data, medical history, prescriptions, and reports (X-rays, blood tests).
