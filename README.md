@@ -1,6 +1,7 @@
 # Smart Health Monitoring System ❤️‍🩹
 
 ### A real-time health tracking system using ESP32 and Pulse Sensor. The system monitors pulse rates and displays the data on the Blynk app and a web platform that stores and displays medical history.
+<img src="https://raw.githubusercontent.com/VichuA2/SmartHealthMonitor/main/Output/Screenshot%20(316).png" alt="Smart Health Monitor Screenshot" width="500"/> <img src="https://github.com/VichuA2/SmartHealthMonitor/blob/main/Output/Screenshot%20(317).png" alt="Smart Health Monitor Screenshot" width="500"/>
 
 ## Accessible link ⬇️: 
 🌐 https://smarthealthmonitor.netlify.app/
